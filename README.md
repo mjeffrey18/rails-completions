@@ -135,3 +135,12 @@ Start typing the name of the helper you want the hit `Tab` to insert the full co
   *  javascript_pack_tag
   *  stylesheet_pack_tag
 
+
+## Notes
+========
+
+All of RailsCompletions is licensed under the MIT license.
+
+Copyright (c) 2018 Marc Jeffrey <mjeffrey18@gmail.com>
+
+https://github.com/mjeffrey18/rails-completions
