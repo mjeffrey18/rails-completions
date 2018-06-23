@@ -1,0 +1,16 @@
+{
+  "scope": "text.html.ruby",
+  "completions":
+  [
+    {"trigger": "render", "contents": "<%= render :"},
+    {"trigger": "render_template", "contents": "<%= render template: '' %>"},
+    {"trigger": "render_partial", "contents": "<%= render partial: '' %>"},
+    {"trigger": "render_file", "contents": "<%= render file: '' %>"},
+    {"trigger": "render_inline", "contents": "<%= render inline: '' %>"},
+    {"trigger": "javascript_include_tag", "contents": "<%= javascript_include_tag 'name' %>"},
+    {"trigger": "stylesheet_link_tag", "contents": "<%= javascript_include_tag 'name' %>"},
+    {"trigger": "image_tag", "contents": "<%= image_tag 'name.png' %>"},
+    {"trigger": "javascript_pack_tag", "contents": "<%= javascript_pack_tag 'name' %>"},
+    {"trigger": "stylesheet_pack_tag", "contents": "<%= stylesheet_pack_tag 'name' %>"},
+  ]
+}
