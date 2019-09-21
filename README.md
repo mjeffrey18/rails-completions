@@ -40,7 +40,7 @@ Start typing the name of the helper you want the hit `Tab` to insert the full co
   *  after_validation_on_create
   *  after_validation_on_Update
 
-## model assocaitions
+## model associations
 
   *  belongs_to
   *  has_one
