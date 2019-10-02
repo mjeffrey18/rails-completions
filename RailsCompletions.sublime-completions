@@ -31,6 +31,8 @@
     {"trigger": "has_many_through", "contents": "has_many :through :"},
     {"trigger": "has_one_through", "contents": "has_one :through :"},
     {"trigger": "has_and_belongs_to_many", "contents": "has_and_belongs_to_many :"},
+    {"trigger": "inverse_of", "contents": "inverse_of :"},
+    {"trigger": "dependent_destroy", "contents": "dependent: :destroy"},
     {"trigger": "validate", "contents": "validate :"},
     {"trigger": "validates", "contents": "validates :"},
     {"trigger": "validates_acceptance_of", "contents": "validates_acceptance_of :"},

@@ -48,6 +48,8 @@ Start typing the name of the helper you want the hit `Tab` to insert the full co
   *  has_many_through # has_many :through
   *  has_one_through # has_one :through
   *  has_and_belongs_to_many
+  *  inverse_of
+  *  dependent_destroy # dependent: :destroy
 
 ## model validations
 
