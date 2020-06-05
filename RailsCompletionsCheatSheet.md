@@ -42,6 +42,7 @@
   *  has_and_belongs_to_many
   *  inverse_of
   *  dependent_destroy # dependent: :destroy
+  *  accepts_nested_attributes_for
 
 ## model validations
 
