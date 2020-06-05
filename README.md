@@ -50,6 +50,7 @@ Start typing the name of the helper you want the hit `Tab` to insert the full co
   *  has_and_belongs_to_many
   *  inverse_of
   *  dependent_destroy # dependent: :destroy
+  *  accepts_nested_attributes_for
 
 ## model validations
 
