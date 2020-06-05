@@ -128,4 +128,3 @@
   *  stylesheet_link_tag
   *  image_tag
   *  javascript_pack_tag
-  *  stylesheet_pack_tag
