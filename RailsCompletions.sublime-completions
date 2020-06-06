@@ -47,6 +47,7 @@
     {"trigger": "validates_presence_of", "contents": "validates_presence_of :"},
     {"trigger": "validates_size_of", "contents": "validates_size_of :"},
     {"trigger": "validates_uniqueness_of", "contents": "validates_uniqueness_of :"},
+    {"trigger": "accepts_nested_attributes_for", "contents": "accepts_nested_attributes_for :"},
     {"trigger": "before_action", "contents": "before_action :"},
     {"trigger": "skip_before_action", "contents": "skip_before_action :"},
     {"trigger": "around_action", "contents": "around_action :"},
