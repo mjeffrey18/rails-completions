@@ -1,10 +1,10 @@
 # Rails Completions - Sublime Text Plugin
 
-This extension for Sublime Text 2 & 3, adding snippets / autocompletions for Ruby on rails
+This extension is for Sublime Text 2 & 3. It adds helpful snippets and autocompletions for Ruby on Rails
 
 ## Use the Snippets
 
-Start typing the name of the helper you want the hit `Tab` to insert the full completion.
+Start typing the name of the helper you want and then hit `Tab` to insert the full completion. This plugin allows fuzzy searching, which allows you to be more efficient when searching for autocompletions.
 
 ## Model Callbacks
 

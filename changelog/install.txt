@@ -2,7 +2,7 @@ Rails Completions
 ================
 
 Thank you for installing Rails completions.
-This is aa simple package for sublime text that provides completion suggestions for Ruby on Rails
+This is a simple package for Sublime Text that provides completion suggestions for Ruby on Rails
 
 Usage
 =====
@@ -47,7 +47,7 @@ Available Completions
   *  after_validation_on_create
   *  after_validation_on_Update
 
-## model assocaitions
+## model associations
 
   *  belongs_to
   *  has_one
