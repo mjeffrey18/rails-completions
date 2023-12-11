@@ -20,6 +20,7 @@
     {"trigger": "after_destroy_commit", "contents": "after_destroy_commit :"},
     {"trigger": "after_rollback", "contents": "after_rollback :"},
     {"trigger": "after_save", "contents": "after_save :"},
+    {"trigger": "after_save_commit", "contents": "after_save_commit :"},
     {"trigger": "after_update", "contents": "after_update :"},
     {"trigger": "after_update_commit", "contents": "after_update_commit :"},
     {"trigger": "after_validation", "contents": "after_validation :"},

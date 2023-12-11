@@ -26,6 +26,7 @@
   *  after_destroy_commit
   *  after_rollback
   *  after_save
+  *  after_save_commit
   *  after_update
   *  after_update_commit
   *  after_validation
